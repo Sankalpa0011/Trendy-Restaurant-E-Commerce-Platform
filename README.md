@@ -79,7 +79,7 @@ transmission.
 - Sensitive data transmission is secured, especially during the checkout process.
 
 
-##Admin Login Details
+## Admin Login Details
 
 Username: *****
 Password: ******
