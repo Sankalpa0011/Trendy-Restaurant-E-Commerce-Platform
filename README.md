@@ -11,14 +11,14 @@ Effortlessly curate your order using our intuitive shopping cart, and breeze thr
 
 ## Table of Contents
 
-- Features- #features
-- Technologies Used- #technologies-used
-- Setup and Installation- #setup-and-installation
-- Usage- #usage
-- Database Setup- #database-setup
-- Security Measures- #security-measures
-- Admin Login Details- #Admin Login Details
-- Contributing- #contributing
+- Features-
+- Technologies Used-
+- Setup and Installation-
+- Usage-
+- Database Setup-
+- Security Measures-
+- Admin Login Details-
+- Contributing-
 
 
 ## Features
